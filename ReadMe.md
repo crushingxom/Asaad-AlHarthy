@@ -10,5 +10,4 @@ I work as a cyber security trainer and have been providing professional courses 
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/J_rJOm7Zc4YMW8d5qri82Q.png">
 </a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="asaad-alharthy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://om.linkedin.com/in/asaad-alharthy?trk=profile-badge">Asaad AlHarthy</a></div>
-              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>       
