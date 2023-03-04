@@ -10,4 +10,4 @@ I work as a cyber security trainer and have been providing professional courses 
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/J_rJOm7Zc4YMW8d5qri82Q.png">
 </a>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>       
+       
