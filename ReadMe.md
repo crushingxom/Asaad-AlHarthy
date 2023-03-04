@@ -7,4 +7,4 @@ I work as a cyber security trainer and have been providing professional courses 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=crushingxom&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crushingxom&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crushingxom&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
