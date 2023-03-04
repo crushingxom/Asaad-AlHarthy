@@ -8,3 +8,6 @@ I work as a cyber security trainer and have been providing professional courses 
 ![](https://github-readme-stats.vercel.app/api?username=crushingxom&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crushingxom&theme=vue-dark&hide_border=false)<br/>
 ![](https://wigle.net][img]https://wigle.net/bi/J_rJOm7Zc4YMW8d5qri82Q.png)<br/>
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/J_rJOm7Zc4YMW8d5qri82Q.png">
+</a>
